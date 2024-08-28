@@ -1,0 +1,7 @@
+column,description
+cid,12 digit unique customer identifier
+week_ending,end of the 7 day period in question
+sex,m or f
+postcode,outward code – postcode district
+age_band,age of customer in 5 year bands
+income_band,"income band of customer based on salary, benefits & pension income"

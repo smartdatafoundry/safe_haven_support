@@ -1,0 +1,7 @@
+column,description
+cid,12 digit unique customer identifier
+week_ending,end of the 7 day period in question
+direction,credit or debit
+type,transaction classification
+type_sub,transaction subclassification
+value,value of the sum of transactions classification for the period in question

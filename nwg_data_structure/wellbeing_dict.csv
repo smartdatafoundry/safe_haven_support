@@ -1,0 +1,6 @@
+column,description
+cid,12 digit unique customer identifier
+week_ending,end of the 7 day period in question
+origin,"origin project, e.g. cost of living or income volatility"
+metric,name of the metric
+value,"numeric of categorical value (seems daft to mix these, latter could be demographic)"
