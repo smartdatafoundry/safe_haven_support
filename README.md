@@ -1,5 +1,5 @@
 # Safe Haven Support
 
-Please view the [wiki](https://github.com/smartdatafoundry/safe_haven_support/wiki) for support information on the Smart Data Foundry safe haven.
+Please view the [wiki](https://github.com/smartdatafoundry/safe_haven_support/wiki) for support information on the Smart Data Foundry Trusted Research Environment.
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
